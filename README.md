@@ -7,6 +7,6 @@ test the quick brown fox jumps over the lazy dog
 
 ryryryryry
 
-So far so good
+So far so good...
 
-E
+EB
